@@ -1,0 +1,11 @@
+﻿  DeltaRuleClassification.cpp
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(38): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(198): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(198): note: placeholders and their parameters expect 5 variadic arguments, but 6 were provided
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(120): warning C4101: 'weights1': unreferenced local variable
+c:\users\u1\desktop\deltaruleclassification\deltaruleclassification\deltaruleclassification.cpp(125): warning C4101: 'weights2': unreferenced local variable
+  DeltaRuleClassification.vcxproj -> C:\Users\u1\Desktop\DeltaRuleClassification\Debug\DeltaRuleClassification.exe
